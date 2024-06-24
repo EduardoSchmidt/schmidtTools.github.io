@@ -18,23 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Política de Privacidade
-email: bardsoftware@gmail.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Coleta de Informações
-Coletamos informações que você nos fornece diretamente, como dados de contato e informações do dispositivo, bem como dados de uso do site. Estas informações são essenciais para o funcionamento e melhoria dos nossos serviços.
-Uso das Informações
-Utilizamos suas informações para
-Fornecer e melhorar nossos serviços
-Personalizar sua experiência
-Garantir a segurança dos nossos sistemas
-Cumprir com obrigações legais
-Compartilhamento de Informações
-Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para cumprir com obrigações legais ou proteger nossos direitos.
-Segurança
-Implementamos medidas de segurança para proteger seus dados contra acesso não autorizado e outras ameaças.
-Seus Direitos
-Você tem o direito de acessar, corrigir ou excluir suas informações pessoais a qualquer momento. Entre em contato conosco para exercer esses direitos.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
